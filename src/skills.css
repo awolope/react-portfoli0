@@ -1,0 +1,64 @@
+.skillsli {
+  color: white;
+  background: linear-gradient(to right, #102137 10%, #808080 70%, #333333);
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.skillsli2 {
+  color: white;
+  background: linear-gradient(to right, #53a1f0 10%, #7a858a 70%, #102137);
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.gendiv {
+  display: inline-flex;
+  text-align: center;
+  margin: 0px;
+  width: 400vh;
+}
+h1 {
+  margin-left: 100px;
+}
+.initdiv {
+  background: rgb(225, 240, 240);
+  margin-top: -20px;
+}
+.skillsdiv {
+  background-color: #102137;
+  margin-left: 100px;
+  margin-right: 20px;
+  padding: 60px;
+  border-radius: 20px;
+}
+.tooldiv {
+  background: #4f99e4;
+  margin-left: 100px;
+  border-radius: 20px;
+  padding: 30px;
+}
+.skillh3 {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  margin-top: 40px;
+  font-weight: 300;
+}
+.skillsh2 {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+}
+.skillh4 {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  margin: -10px;
+}
